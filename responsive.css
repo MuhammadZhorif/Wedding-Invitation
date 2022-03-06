@@ -1,0 +1,9 @@
+@media all and (max-width:670px) {
+    .header-right {
+        float: left;
+    }
+
+    .top-wrapper {
+        padding: 100px 0 500px 0;
+    }
+}
